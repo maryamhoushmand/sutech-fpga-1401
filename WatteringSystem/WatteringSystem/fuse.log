@@ -1,0 +1,22 @@
+Running: D:\install\xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o D:/University/FPGA amiri/VHDL exmaples/WatteringSystem/WatteringSystem_tb_isim_beh.exe -prj D:/University/FPGA amiri/VHDL exmaples/WatteringSystem/WatteringSystem_tb_beh.prj work.WatteringSystem_tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/University/FPGA amiri/VHDL exmaples/WatteringSystem/FSM.vhd" into library work
+Parsing VHDL file "D:/University/FPGA amiri/VHDL exmaples/WatteringSystem/BCD2SevSeg.vhd" into library work
+Parsing VHDL file "D:/University/FPGA amiri/VHDL exmaples/WatteringSystem/WatteringSystem.vhd" into library work
+Parsing VHDL file "D:/University/FPGA amiri/VHDL exmaples/WatteringSystem/WatteringSystem_tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity FSM [fsm_default]
+Compiling architecture behavioral of entity BCD2SevSeg [bcd2sevseg_default]
+Compiling architecture behavioral of entity WatteringSystem [watteringsystem_default]
+Compiling architecture behavior of entity watteringsystem_tb
+Time Resolution for simulation is 1ps.
+Compiled 9 VHDL Units
+Built simulation executable D:/University/FPGA amiri/VHDL exmaples/WatteringSystem/WatteringSystem_tb_isim_beh.exe
+Fuse Memory Usage: 29992 KB
+Fuse CPU Usage: 437 ms

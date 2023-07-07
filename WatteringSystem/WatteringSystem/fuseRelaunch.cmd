@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/University/FPGA amiri/VHDL exmaples/WatteringSystem/WatteringSystem_tb_isim_beh.exe" -prj "D:/University/FPGA amiri/VHDL exmaples/WatteringSystem/WatteringSystem_tb_beh.prj" "work.WatteringSystem_tb" 

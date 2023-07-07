@@ -1,0 +1,1 @@
+vhdtdtfi -prj WatteringSystem -o "D:/University/FPGA amiri/VHDL exmaples/WatteringSystem/BCD2SevSeg.vhi" -module BCD2SevSeg -template D:/install/xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work BCD2SevSeg.vhd 

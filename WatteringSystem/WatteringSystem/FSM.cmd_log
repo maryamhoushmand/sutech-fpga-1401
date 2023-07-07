@@ -1,0 +1,1 @@
+vhdtdtfi -prj WatteringSystem -o "D:/University/FPGA amiri/VHDL exmaples/WatteringSystem/FSM.vhi" -module FSM -template D:/install/xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work FSM.vhd 

@@ -1,0 +1,4 @@
+vhdl isim_temp "FSM.vhd"
+vhdl isim_temp "BCD2SevSeg.vhd"
+vhdl isim_temp "WatteringSystem.vhd"
+vhdl isim_temp "WatteringSystem_tb.vhd"

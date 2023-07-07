@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/University/FPGA amiri/VHDL exmaples/WatteringSystem/WatteringSystem.xst" -ofn "D:/University/FPGA amiri/VHDL exmaples/WatteringSystem/WatteringSystem.syr" 

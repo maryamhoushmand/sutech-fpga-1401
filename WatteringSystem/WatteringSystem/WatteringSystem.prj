@@ -1,0 +1,3 @@
+vhdl work "FSM.vhd"
+vhdl work "BCD2SevSeg.vhd"
+vhdl work "WatteringSystem.vhd"

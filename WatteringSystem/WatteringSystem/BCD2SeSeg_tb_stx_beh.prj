@@ -1,0 +1,2 @@
+vhdl isim_temp "BCD2SevSeg.vhd"
+vhdl isim_temp "BCD2SeSeg_tb.vhd"
